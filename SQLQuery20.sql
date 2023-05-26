@@ -1,0 +1,1 @@
+CREATE INDEX PK_New_table ON New_table(first_column)

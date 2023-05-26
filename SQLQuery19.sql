@@ -1,0 +1,1 @@
+SELECT 8 FROM New_table
